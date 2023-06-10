@@ -20,6 +20,8 @@ Senior Software Developer
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [graynneji405@gmail.com](mailto:graynneji405@gmail.com)
+* 🚀  I'm currently working on [Audio Ecommerce](http://lucent-semolina-02b590.netlify.app)
+* 🧠  I'm learning NodeJs
 
 <a href="https://www.github.com/graynneji" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/graynneji?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
