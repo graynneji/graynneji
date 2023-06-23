@@ -7,7 +7,7 @@ Senior Software Developer
 💼 I have a strong background, with over seven years of professional experience in developing robust and scalable software solutions. Throughout my career, I have worked on a wide range of projects, spanning various industries and technologies. 
 <br/>
 <br/>
-🌟 My expertise includes designing and implementing complex systems, architecting efficient and maintainable codebases, and leading development teams. I am proficient in multiple programming languages and frameworks, with a focus on Javascript/Python, React/Vue/Angular/Django. 
+🌟 My expertise includes designing and implementing complex systems, architecting efficient and maintainable codebases, and leading development teams. I am proficient in multiple programming languages and frameworks, with a focus on Javascript/Python, Node/React/Vue/Angular/Django. 
 <br/>
 <br/>
 🔧 I have a deep understanding of software development best practices, including agile methodologies, test-driven development (TDD), and continuous integration/continuous delivery (CI/CD). I am passionate about writing clean, modular, and well-documented code. 
@@ -21,7 +21,7 @@ Senior Software Developer
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [graynneji405@gmail.com](mailto:graynneji405@gmail.com)
 * 🚀  I'm currently working on [Audio Ecommerce](http://lucent-semolina-02b590.netlify.app)
-* 🧠  I'm learning NodeJs
+* 🧠  I'm learning Java
 
 <a href="https://www.github.com/graynneji" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/graynneji?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
