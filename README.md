@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ukaegbu Gray i am an experienced Full Stack Developer with a strong background in building scalable and robust web applications. I specialize in creating seamless user experiences and efficient backend systems. With a passion for problem-solving and a commitment to delivering high-quality code, I thrive in collaborative environments and continuously seek to expand my knowledge in the ever-evolving tech landscape.</h2>
+<p align="left">Hi 👋! My name is Ukaegbu Gray i am an experienced Full Stack Developer with a strong background in building scalable and robust web applications. I specialize in creating seamless user experiences and efficient backend systems. With a passion for problem-solving and a commitment to delivering high-quality code, I thrive in collaborative environments and continuously seek to expand my knowledge in the ever-evolving tech landscape.</p>
 
 ###
 
